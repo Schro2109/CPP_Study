@@ -1,3 +1,4 @@
+//반지름으로 원의 너비를 구하는 프로그램
 #include <iostream>
 #include "Circle.h"
 using namespace std;
